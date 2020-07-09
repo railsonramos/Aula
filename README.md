@@ -1,6 +1,6 @@
 # Minha cesta de frutas
 
 
-![Cesta](https://github.com/railsonramos/Aula/blob/master/cesta.jpg)
+<img src="cesta.jpg" height="350px"/>
 
 Esse é o repositório da minha cesta de frutas
